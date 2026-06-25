@@ -1,36 +1,37 @@
 {
   "name": "apex-creator-terminal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Apex Creator Terminal — modular project generator for the Apex Genesis Engine.",
   "main": "dist/index.js",
-  "keywords": ["apex", "cli", "generator", "asl", "genesis-engine"],
+  "keywords": [
+    "apex",
+    "cli",
+    "generator",
+    "asl",
+    "genesis-engine"
+  ],
   "author": "Apex Meta-Systems",
   "license": "MIT",
   "type": "commonjs",
-
   "bin": {
     "apex": "./bin/apex.js"
   },
-
   "files": [
     "dist",
     "bin",
     "templates"
   ],
-
   "scripts": {
     "start": "ts-node src/index.ts",
     "build": "tsc",
     "cli": "node dist/index.js"
   },
-
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^25.9.3",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3"
   },
-
   "dependencies": {
     "chalk": "^5.6.2",
     "fs-extra": "^11.3.5",
