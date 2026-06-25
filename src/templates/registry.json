@@ -1,0 +1,14 @@
+{
+  "app-basic": {
+    "name": "Basic App",
+    "description": "Minimal ASL + Forge project"
+  },
+  "simulation-core": {
+    "name": "Simulation Core",
+    "description": "Genesis Engine simulation loop + ASL modules"
+  },
+  "engine-module": {
+    "name": "Engine Component",
+    "description": "A module for the Apex Genesis Engine"
+  }
+}

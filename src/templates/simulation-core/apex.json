@@ -1,0 +1,6 @@
+{
+  "name": "{{name}}",
+  "description": "Core simulation project for the Apex Genesis Engine",
+  "version": "1.0.0",
+  "type": "simulation"
+}

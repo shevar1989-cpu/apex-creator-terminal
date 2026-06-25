@@ -1,0 +1,13 @@
+{
+  "name": "Engine Component",
+  "description": "A module for the Apex Genesis Engine",
+  "tags": ["engine", "module"],
+  "defaults": {
+    "includeTests": true,
+    "includeEngineIntegration": true
+  },
+  "options": {
+    "includeTests": "Include test suite?",
+    "includeEngineIntegration": "Include engine integration file?"
+  }
+}

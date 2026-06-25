@@ -1,0 +1,6 @@
+{
+  "name": "{{name}}",
+  "description": "A basic Apex application",
+  "version": "1.0.0",
+  "type": "app"
+}

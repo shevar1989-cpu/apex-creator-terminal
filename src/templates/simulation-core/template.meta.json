@@ -1,0 +1,17 @@
+{
+  "name": "Simulation Core",
+  "description": "Genesis Engine simulation loop + ASL modules",
+  "tags": ["simulation", "engine", "asl"],
+  "defaults": {
+    "includePhysics": true,
+    "includeAI": true,
+    "includeAssets": false,
+    "includeModules": false
+  },
+  "options": {
+    "includePhysics": "Include physics system?",
+    "includeAI": "Include AI system?",
+    "includeAssets": "Include assets folder?",
+    "includeModules": "Include modules folder?"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Basic App",
+  "description": "Minimal ASL + Forge project",
+  "tags": ["app", "asl", "forge"],
+  "defaults": {
+    "includeAssets": false,
+    "includeModules": false
+  },
+  "options": {
+    "includeAssets": "Include assets folder? (textures/models)",
+    "includeModules": "Include modules folder?"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "{{name}}",
+  "type": "engine-module",
+  "version": "1.0.0",
+  "entry": "module.asl"
+}
