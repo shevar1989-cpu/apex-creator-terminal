@@ -1,4 +1,8 @@
-﻿# apex-creator-terminal
+![Version](https://img.shields.io/badge/version-0.1.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-MVP-orange)
+
+# apex-creator-terminal
 Apex Creator Terminal
 Command‑Line Gateway to the Apex Genesis Engine
 The Apex Creator Terminal (ACT) is the official command‑line interface for the Apex Genesis Engine ecosystem — the unified system powering Apex Meta‑Systems, Apex Design Labs, and Apex Reality Systems.
