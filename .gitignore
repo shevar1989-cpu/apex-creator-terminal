@@ -1,0 +1,5 @@
+node_modules/
+dist/
+testapp/
+.env
+.DS_Store
