@@ -1,6 +1,6 @@
 {
   "name": "apex-creator-terminal",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Apex Creator Terminal — modular project generator for the Apex Genesis Engine.",
   "main": "dist/index.js",
   "keywords": [
